@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 ### Connect with me 🤝
 <a href="https://www.linkedin.com/in/pardheev-krishna-t/" target="_blank"><img src="https://i.imgur.com/RIefvk9.png" height="50px"></a>
 
-
+<!--
 # 📊 GitHub Stats:
 <div align="center">
   
@@ -90,6 +90,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PardheevKrishna&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+-->
 
 ### ✍️ Random Dev Quote
 <div align='center'>
