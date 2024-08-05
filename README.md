@@ -106,6 +106,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 </div>
 
+<!--
 ![](./profile-3d-contrib/profile-night-green.svg)
+-->
 
 
