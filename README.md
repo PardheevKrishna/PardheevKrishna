@@ -85,8 +85,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 <div align="center">
   
 <!--![](https://github-readme-stats.vercel.app/api?username=PardheevKrishna&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/><br>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=PardheevKrishna&theme=blue-green&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PardheevKrishna&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![PardheevKrishna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PardheevKrishna&theme=nightowl&hide_border=true)<br/><br>
+![PardheevKrishna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PardheevKrishna&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
