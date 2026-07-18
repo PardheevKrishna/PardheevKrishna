@@ -1,11 +1,9 @@
 <div align="center">
 
-<h3><code>PardheevKrishna@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="Contributions Heatmap" />
 
 <br><br>
 
-<h3><code>PardheevKrishna@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" /></td>
@@ -15,12 +13,10 @@
 
 <br><br>
 
-<h3><code>PardheevKrishna@github ~ $ neofetch --skills</code></h3>
 <img src="./skills.svg" width="860" alt="Technical Skills" />
 
 <br><br>
 
-<h3><code>PardheevKrishna@github ~ $ ./stats.sh</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PardheevKrishna&theme=nightowl&hide_border=true" width="425" alt="GitHub Streak Stats" /></td>
@@ -30,17 +26,14 @@
 
 <br><br>
 
-<h3><code>PardheevKrishna@github ~ $ ./connect.sh</code></h3>
 <a href="https://www.linkedin.com/in/pardheev-krishna-t/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pardheev%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Contact" /></a>
 
 <br><br>
 
-<h3><code>PardheevKrishna@github ~ $ curl -s quotes.api | jq .quote</code></h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 <br><br>
 
-<h3><code>PardheevKrishna@github ~ $ ./top_repos.sh</code></h3>
 <img src="https://github-contributor-stats.vercel.app/api?username=PardheevKrishna&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
