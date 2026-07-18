@@ -35,20 +35,20 @@ HOST = os.environ.get("GH_PROFILE_USER", "PardheevKrishna")
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Developer & AI Enthusiast"),
-    ("kv", "Focus", "Web Dev, ML, Data Science & DevOps"),
+    ("kv", "Now", "Program Associate @ Wells Fargo"),
+    ("kv", "Focus", "AI/ML, Web Dev, Cloud & DevOps"),
     ("kv", "Edu", "B.Tech in CSE / India"),
     ("gap",),
-    ("sec", "Stack"),
-    ("kv", "Languages", "Python, JavaScript, SQL, C++, HTML/CSS"),
-    ("kv", "Frameworks", "React, Node.js, Express, TailwindCSS"),
-    ("kv", "Libraries", "OpenCV, NumPy, Pandas, Matplotlib"),
-    ("kv", "Tools", "Git, Docker, GitHub Actions, Jupyter Notebook"),
+    ("sec", "AI / ML Stack"),
+    ("kv", "Basic AI", "Python, OpenCV, NumPy, Pandas, Scikit-Learn"),
+    ("kv", "Adv AI", "PyTorch, TensorFlow, LLMs, RAG, Gemini API"),
+    ("kv", "Web & DB", "React, Node.js, Express, MySQL, MongoDB"),
+    ("kv", "Cloud/DevOps", "AWS, Docker, Git, GitHub Actions"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Consumewise — AI ingredient scanner for instant nutrition facts"),
-    ("bul", "V-Attend — Automated attendance management system using Python"),
-    ("bul", "SecureNoise — Key generation algorithm using sound patterns"),
+    ("bul", "Program Associate at Wells Fargo"),
+    ("bul", "Consumewise — AI ingredient scanner for nutritional insights"),
+    ("bul", "SecureNoise — Sound pattern cryptographic key generator"),
 ]
 
 
