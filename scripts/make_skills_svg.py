@@ -36,12 +36,12 @@ CATEGORIES = [
     },
     {
         "title": "Basic AI & Data Sci",
-        "skills": ["Python", "OpenCV", "NumPy", "Pandas", "scikit-learn", "SciPy", "Prompt Eng"],
+        "skills": ["Python", "OpenCV", "NumPy", "Pandas", "scikit-learn", "SciPy"],
         "col": 0, "row": 1
     },
     {
         "title": "Advanced AI & ML",
-        "skills": ["PyTorch", "TensorFlow", "Keras", "LLMs", "RAG", "Gemini API", "LangChain"],
+        "skills": ["PyTorch", "TensorFlow", "Transformers", "Fine-Tuning", "RAG", "Agentic AI", "Vector DBs"],
         "col": 1, "row": 1
     },
     {
