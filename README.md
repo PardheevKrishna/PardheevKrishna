@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contributions Heatmap" />
+<!-- <img src="./contrib-heatmap.svg" width="860" alt="Contributions Heatmap" /> -->
 
 <br><br>
 
